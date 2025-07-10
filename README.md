@@ -13,5 +13,5 @@ A C++ console-based project to simulate a real-world city management system usin
 ## Technologies Used
 
 - C++
-- STL: `vector`, `unordered_map`, `priority_queue`, `string`, etc.
+- STL: "vector", "unordered_map", "priority_queue", "string", etc.
 - Graph algorithms: Dijkstra’s & Prim’s
